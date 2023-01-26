@@ -1,0 +1,13 @@
+hr{
+    border-color: #E8D2A6;
+    border-style: none;
+    border-top-style: dotted;   
+    border-width: 8px;
+    width:10%
+}
+body{
+    background-color: #86A3B8;
+}
+td{
+   padding: 5px; 
+}
