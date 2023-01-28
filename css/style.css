@@ -11,3 +11,9 @@ body{
 td{
    padding: 5px; 
 }
+h1,h3{
+    color: #0768ad;
+}
+h3{
+    font-style: italic;
+}
